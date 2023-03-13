@@ -7,107 +7,147 @@
       "is12Plus": true,
       "is18Plus": true,
       "language": "English",
-      "author": "Kevin DeRudder",
+      "author": {
+        "name": "Kevin DeRudder",
+        "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+        "email":  "kevin.derudder@gmail.com"
+      },
       "created": "30 08 1981"
     },
-    {
-      "id": 2,
-      "setup": "A colon can completely change the meaning of a sentence.",
-      "punchline": "For examle \n - Jan ate her friends sandwich. \n - Jan ate her friends colon.",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
+  {
+    "id": 2,
+    "setup": "A colon can completely change the meaning of a sentence.",
+    "punchline": "For examle \n - Jan ate her friends sandwich. \n - Jan ate her friends colon.",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
     },
-    {
-      "id": 3,
-      "setup": "Tesla founder Elon Musk is originally from South Africa, which is strange.",
-      "punchline": "You'd think he was from Mad-at-gas-car.",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
+    "created": "30 08 1981"
+  },
+  {
+    "id": 3,
+    "setup": "Tesla founder Elon Musk is originally from South Africa, which is strange.",
+    "punchline": "You'd think he was from Mad-at-gas-car.",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
     },
-    {
-      "id": 4,
-      "setup": "I told my wife to emrabce her mistakes.",
-      "punchline": "She gave me a hug.",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
+    "created": "30 08 1981"
+  },
+  {
+    "id": 4,
+    "setup": "I told my wife to emrabce her mistakes.",
+    "punchline": "She gave me a hug.",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
     },
-    {
-      "id": 5,
-      "setup": "Guess who I bumped into on my way to get my glasses fixed?",
-      "punchline": "Everybody.",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
+    "created": "30 08 1981"
+  },
+  {
+    "id": 5,
+    "setup": "Guess who I bumped into on my way to get my glasses fixed?",
+    "punchline": "Everybody.",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
     },
-    {
-      "id": 6,
-      "setup": "Went to the zoo yesterday and saw a baguette in a cage",
-      "punchline": "The zookeeper told me it was bread in captivity.",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
+    "created": "30 08 1981"
+  },
+  {
+    "id": 6,
+    "setup": "Went to the zoo yesterday and saw a baguette in a cage",
+    "punchline": "The zookeeper told me it was bread in captivity.",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
     },
-    {
-      "id": 7,
-      "setup": "What did Spartacus say when the lion ate his wife?",
-      "punchline": "Nothing, he was gladiator",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
+    "created": "30 08 1981"
+  },
+  {
+    "id": 7,
+    "setup": "What did Spartacus say when the lion ate his wife?",
+    "punchline": "Nothing, he was gladiator",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
     },
-    {
-      "id": 8,
-      "setup": "My mom was a radiologist. She met my dad when he came in for an x-ray",
-      "punchline": "I wonder what she saw in him.",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
+    "created": "30 08 1981"
+  },
+  {
+    "id": 8,
+    "setup": "My mom was a radiologist. She met my dad when he came in for an x-ray",
+    "punchline": "I wonder what she saw in him.",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
     },
-    {
-      "id": 9,
-      "setup": "Scientists have recently discovered a food that greatly reduces sex drive.",
-      "punchline": "It's called a wedding cake.",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
+    "created": "30 08 1981"
+  },
+  {
+    "id": 9,
+    "setup": "Scientists have recently discovered a food that greatly reduces sex drive.",
+    "punchline": "It's called a wedding cake.",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
     },
-    {
-      "id": 10,
-      "setup": "I struglle with Roman Numerals until I get to 159.",
-      "punchline": "Then it just CLIX.",
-      "type": "DadJoke",
-      "is12Plus": true,
-      "is18Plus": true,
-      "language": "English",
-      "author": "Kevin DeRudder",
-      "created": "30 08 1981"
-    }
+    "created": "30 08 1981"
+  },
+  {
+    "id": 10,
+    "setup": "I struglle with Roman Numerals until I get to 159.",
+    "punchline": "Then it just CLIX.",
+    "type": "DadJoke",
+    "is12Plus": true,
+    "is18Plus": true,
+    "language": "English",
+    "author": {
+      "name": "Kevin DeRudder",
+      "linkedinUrl": "https://www.linkedin.com/in/kevin-derudder",
+      "email": "kevin.derudder@gmail.com"
+    },
+    "created": "30 08 1981"
+  }
   ]
 

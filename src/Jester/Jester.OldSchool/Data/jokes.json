@@ -1,0 +1,93 @@
+ [
+  {
+    "id": 1,
+    "text": "Why did the tomato turn red? Because it saw the salad dressing!.",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 2,
+    "text": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 3,
+    "text": "Why don't scientists trust atoms? Because they make up everything.",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 4,
+    "text": "What did the janitor say when he jumped out of the closet? 'Supplies!'",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 5,
+    "text": "Why don't oysters share their pearls? Because they're shellfish.",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 6,
+    "text": "I'm reading a book on anti-gravity. It's impossible to put down.",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 7,
+    "text": "Nothing, he was gladiator",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 8,
+    "text": "What do you call an alligator in a vest? An investigator.",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 9,
+    "text": "What do you call a fake noodle? An impasta.",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  },
+  {
+    "id": 10,
+    "text": "How does a penguin build its house? Igloos it together.",
+    "Is12Plus": true,
+    "Is18Plus": true,
+    "language": "English",
+    "author": "Kevin DeRudder",
+    "created": "30 08 1981"
+  }
+  ]
+
